@@ -5,7 +5,7 @@ This project analyzes a retail sales dataset using SQL.
 It covers sales performance, customer behavior, and revenue trends with **business-driven SQL queries**.
 
 ## 🗂 Dataset
-- `Retail_Sales_Dataset.csv` contains transaction data including:
+- `Sales_Dataset.csv` contains transaction data including:
   - Customer ID
   - Gender
   - Age
